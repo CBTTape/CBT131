@@ -1,0 +1,7 @@
+2023-08-06 01:17:13.674842 - Initialized conversion of CBT131
+2023-08-06 01:17:13.709081 - Received CBT.V505.FILE131.PDS from FILE131.XMI 
+2023-08-06 01:17:13.711082 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE131.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:17:13.712308 - Found $$$INDEX.txt (text/plain) in CBT.V505.FILE131.PDS, moved to PDS/$$$INDEX
+2023-08-06 01:17:13.713332 - Found @FILE131.txt (text/plain) in CBT.V505.FILE131.PDS, moved to PDS/@FILE131
+2023-08-06 01:17:13.714205 - Found ARESPREX.txt (text/plain) in CBT.V505.FILE131.PDS, moved to PDS/ARESPREX
+2023-08-06 01:17:13.715241 - Found SARSECUX.txt (text/plain) in CBT.V505.FILE131.PDS, moved to PDS/SARSECUX
